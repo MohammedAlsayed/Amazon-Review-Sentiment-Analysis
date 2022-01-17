@@ -1,6 +1,6 @@
 # Introduction
 
-This jupyter notebook has work I conducted to classify amazon reviews into positive and negative reviews using the following [dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Kitchen_v1_00.tsv.gz)
+This jupyter notebook is to classify amazon reviews into positive and negative reviews using Natural Language Processing, the following [dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Kitchen_v1_00.tsv.gz) has been used.
 
 The following has been conducted in the notebook:
 
