@@ -6,8 +6,10 @@ The following has been conducted in the notebook:
 
 1- Data Preprocessing
 
-2- Transforming text into word2vector using google word2vec, and TF-IDF
+2- Stemming reviews using NLTK library.
 
-3- Applying different machine learning models to predict positive, negative sentiment.
+3- Transforming text into word2vector using google word2vec, and TF-IDF.
+
+4- Applying different machine learning models to predict positive, negative sentiment.
 
 **Best accuracy achieved 0.89 f1 score, with SVM TF-IDF**
